@@ -1,0 +1,4 @@
+rootProject.name = 'ins31x'
+
+includeBuild("api-gateway")
+includeBuild("discovery-server")
