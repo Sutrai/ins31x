@@ -1,5 +1,6 @@
 package com.oous.authorizationserver.util;
 
+import com.oous.authorizationserver.domain.response.response.service.CryptoException;
 import lombok.experimental.UtilityClass;
 
 import javax.crypto.SecretKeyFactory;

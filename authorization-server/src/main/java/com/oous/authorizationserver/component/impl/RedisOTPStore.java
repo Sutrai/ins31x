@@ -2,6 +2,7 @@ package com.oous.authorizationserver.component.impl;
 
 import com.oous.authorizationserver.component.OtpStore;
 import com.oous.authorizationserver.domain.response.response.information.SessionCookieNotFoundException;
+import com.oous.authorizationserver.util.CryptoUtils;
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
