@@ -24,6 +24,6 @@ public class RegistrationServiceImpl implements RegistrationService {
 
     @Override
     public void checkOtp(String otp, HttpServletRequest request) {
-
+        //TODO
     }
 }
